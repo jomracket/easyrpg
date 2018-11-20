@@ -1,1 +1,1 @@
-initialized
+EasyRPG
